@@ -4,6 +4,7 @@
   "nothingToDo":              { "message": "Nada a fazer aqui." },
   "optionDynamicIcon":        { "message": "Utilizar o ícone da tecnologia em vez do logótipo do Wappalyzer" },
   "optionTracking":           { "message": "Envie anonimamente tecnologias identificadas para wappalyzer.com" },
+  "optionThemeMode":          { "message": "Permitir a compatibilidade modo escuro." },
   "optionUpgradeMessage":     { "message": "Fale-me sobre actualizações" },
   "options":                  { "message": "Opções" },
   "optionsSave":              { "message": "Opções de Guardar" },
@@ -14,6 +15,7 @@
   "termsAccept":              { "message": "Aceitar" },
   "termsContent":             { "message": "Esta extensão envia informações anónimas sobre os sites que visitas, incluindo o nome de domínio e as tecnologias identificadas, para o <a href='https://www.wappalyzer.com'>wappalyzer.com</a>. Isso pode ser desativado nas configurações." },
   "privacyPolicy":            { "message": "Políticas de Privacidade" },
+  "createAlert":              { "message": "Create an alert for this website" },
   "categoryName1":            { "message": "CMS" },
   "categoryName2":            { "message": "Fórum" },
   "categoryName3":            { "message": "Gestor de Base de Dados" },
@@ -78,5 +80,6 @@
   "categoryName62":           { "message": "PaaS" },
   "categoryName63":           { "message": "IaaS" },
 	"categoryName64":           { "message": "Reverse Proxy" },
-	"categoryName65":           { "message": "Load Balancer" }
+	"categoryName65":           { "message": "Load Balancer" },
+	"categoryName66":           { "message": "UI Frameworks" }
 }
